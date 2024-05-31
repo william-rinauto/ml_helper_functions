@@ -1,0 +1,10 @@
+pandas==2.2.2
+numpy==1.26.4
+tensorflow==2.14.0
+scikit-learn==1.4.0
+xgboost==2.0.3
+ipykernel
+scikit-optimize==0.10.1
+matplotlib
+
+# pip install -r requirements.txt
